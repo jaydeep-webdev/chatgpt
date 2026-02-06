@@ -1,0 +1,9 @@
+{
+  "name": "fti-fasteners-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static FTI Fasteners website with a small Node server for preview environments.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
